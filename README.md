@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" title="AI" alt="AI" height="400" width="1000"/>
-  </div>
   
